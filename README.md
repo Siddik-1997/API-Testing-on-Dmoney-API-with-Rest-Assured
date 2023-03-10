@@ -18,7 +18,7 @@ There are several reasons why Rest Assured is a popular choice for API testing:
 
 - Open-source: Rest Assured is an open-source library, which means it's free to use and has an active community of developers contributing to its development and maintenance.
 
-## Technoloy Used:
+## Technology Used:
 
 - Rest Assured
 - commons-configuration
