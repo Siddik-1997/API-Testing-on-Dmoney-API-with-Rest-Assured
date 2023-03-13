@@ -21,8 +21,6 @@ public class Transaction extends Setup {
 
     }
 
-    private int currentBalance;
-
     public JsonPath depositMoney(String fromAccount, String toAccount, int amount) {
         RestAssured.baseURI = prop.getProperty("base_url");
         TransactionModel transactionModel = new TransactionModel(fromAccount, toAccount, amount);
