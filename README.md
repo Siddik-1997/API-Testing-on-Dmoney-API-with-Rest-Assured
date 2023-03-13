@@ -54,9 +54,9 @@ There are several reasons why Rest Assured is a popular choice for API testing:
  
  ## Allure Report:
  
-![Screenshot (40)](https://user-images.githubusercontent.com/123433625/224333168-e5e2f4d5-d3b0-460c-b762-d26bc5044f10.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/123433625/224722042-2e4d3176-6b4d-46ce-95fd-f49cdc44508f.png)
 
-![Screenshot (42)](https://user-images.githubusercontent.com/123433625/224333189-6b1a0351-d569-4870-a88f-f2df150a5dd2.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/123433625/224722075-446ecbfd-7e43-4aa9-91ec-05e94bf631d4.png)
 
 ## Video Output:
 
